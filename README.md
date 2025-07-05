@@ -3,7 +3,6 @@
 🤖 Aspiring AI Engineer | 🔍 Machine Learning in Action  <br/>
 
 🛠️ Building real-world ML projects that solve actual problems  <br/>
-🚀 Currently mastering noisy label learning + model debugging  <br/>
 🎯 Goal: Land ML research internships + ship production-grade tools  <br/>
 
 📍 On a mission to turn curiosity into impact — one model at a time.  <br/>

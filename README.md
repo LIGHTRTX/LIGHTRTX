@@ -7,7 +7,7 @@
 
 📍 On a mission to turn curiosity into impact — one model at a time.  <br/>
 # 💫 About Me:
-👋 I'm Tejas — future AI engineer in the making.<br>🤖 Learning ML hands-on with Cleanlab & noisy data.<br>🚀 Chasing impact through real-world projects & internships.<br>
+👋 I'm Tejas — future AI engineer in the making.<br>🤖 Learning ML hands-on real life application.<br>🚀 Chasing impact through real-world projects & internships.<br>
 
 
 ## 🌐 Socials:

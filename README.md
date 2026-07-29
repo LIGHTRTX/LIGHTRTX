@@ -1,5 +1,5 @@
 <h1 align="center">Tejas Mani</h1>
-<h3 align="center">Machine Learning Engineer | Computer Vision Systems | Open to Work (Remote)</h3>
+<h3 align="center">AI & Machine Learning Engineer | Computer Vision Systems | Open to Work (Remote)</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/tejasmani">LinkedIn</a> |
